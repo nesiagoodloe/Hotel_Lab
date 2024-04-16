@@ -1,0 +1,22 @@
+h2 {
+    background-color: maroon;
+    color: white;
+    padding-left: 50px;
+  }
+  
+  body {
+    background-color: gray;
+  }
+  
+  form {
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 20px;  
+  }
+  
+  .card {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+  }
